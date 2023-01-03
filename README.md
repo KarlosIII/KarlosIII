@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @KarlosIII
 - 👀 I’m interested in learning everything about coding, having a natural interest in back-end stuff but still interested in front-end stuff too.
-- 🌱 I’m currently learning front-end engineering, going trough some JS.
-- 💞️ I’m looking to collaborate on any learning coder on portofolio project, I'm on codecademy.
-- 📫 How to reach me, reach me here on GitHub :) 
+- 🌱 I’m currently going trough a Full Stack "career path" on Codecademy. Right now I'm on React.
+- 💞️ I’m looking to collaborate with anyone on any projects. I'm looking to grow my coding network, as a mentor (if I can), from a mentor and tough all of others 
+programmer experiences.
+- 📫 Hook me up on Twitter @ Carl TheFrench :) 
 
 <!---
 KarlosIII/KarlosIII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
