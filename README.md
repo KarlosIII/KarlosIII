@@ -6,7 +6,13 @@
 -
 
 <h2>👨‍💻 Front End Web Developement Projects</h2>
- - 
+<b>Websites Practices</b>
+
+- Fictive Videogame Website
+  - <a href=https://github.com/KarlosIII/Club-Website/tree/main> more info </a>
+
+- CodeCademy Tea Cozy webpage
+  - <a href=https://github.com/KarlosIII/Tea-Cozy> more info </a>
 
 <h2>💻 Back End Server Developement Projects </h2>
 -
