@@ -17,6 +17,8 @@
 - Company home page
   - <a href=https://github.com/KarlosIII/Compagny-Home-Page> more info </a>
 
+- Many more projects made with REACT.
+
 <h2>💻 Back End Server Developement Projects </h2>
 - Node.js contact me for more info
 
