@@ -14,6 +14,9 @@
 - CodeCademy Tea Cozy webpage
   - <a href=https://github.com/KarlosIII/Tea-Cozy> more info </a>
 
+- Company home page
+  - <a href=https://github.com/KarlosIII/Compagny-Home-Page> more info </a>
+
 <h2>💻 Back End Server Developement Projects </h2>
 -
 
