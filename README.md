@@ -9,7 +9,7 @@
 <b>Websites Practices</b>
 
 - Simulated terminal to show resume
-  - <a href=https://github.com/KarlosIII/Club-Website/tree/main> more info </a>
+  - <a href=https://github.com/KarlosIII/TerminalResume> more info </a>
 
 - Fictive Videogame Website
   - <a href=https://github.com/KarlosIII/Club-Website/tree/main> more info </a>
